@@ -73,7 +73,7 @@ module.exports = {
       options: {
         modulePath: `${__dirname}/src/cms/cms.js`,
         enableIdentityWidget: true,
-        htmlTitle: `Gatsby Starter Business Content Manager`,
+        htmlTitle: `Stina admin`,
       },
     },
     {
@@ -101,12 +101,12 @@ module.exports = {
         display: 'standalone',
         icons: [
           {
-            src: `/icons/icon-192x192.png`,
+            src: `/icons/Städtjänster.png`,
             sizes: `192x192`,
             type: `image/png`,
           },
           {
-            src: `/icons/icon-512x512.png`,
+            src: `/icons/Städtjänster.png`,
             sizes: `512x512`,
             type: `image/png`,
           },
