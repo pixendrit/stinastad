@@ -1,38 +1,49 @@
 ---
 templateKey: about-page
-title: About Us
+title: Om oss
 meta_title: About Us | Gatsby Starter Business
-meta_description: >-
-  Cum sociis natoque penatibus et magnis dis parturient montes, nascetur
-  ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam
-  venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis
-  consectetur purus sit amet fermentum.
+meta_description: Cum sociis natoque penatibus et magnis dis parturient montes,
+  nascetur ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia
+  quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras
+  mattis consectetur purus sit amet fermentum.
 ---
-## Lorem ipsum dolor sit amet, consectetuer
+### Mer än 10 års rengöringserfaring
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. 
-Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus 
-mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa 
-quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu.
 
-##In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. 
 
-Nullam dictum felis eu pede mollis 
-pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. 
-Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra 
-quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. 
-Etiam ultricies nisi vel augue.  Nam eget dui. *Etiam rhoncus*. Maecenas 
-tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. 
-Nam quam nunc, blandit vel, luctus pulvinar
+Stina Stad-tjänsten är ett fullt integrerat företag för städtjänster som tillhandahåller omfattande, tillförlitliga rengöringslösningar av hög kvalitet till kommersiella, företag, industri och bostadskunder.
 
-###Curabitur ullamcorper ultricies nisi.
+Vår flitiga ledning och arbetsetik är centrala för rengöringsföretagets affärsfilosofi och avgörande för att leverera städningstjänster av hög kvalitet. Vi är stolta över att göra vår ledning ansvarig gentemot klienten genom direkt tillgång och interaktion med vår verkställande direktör.
 
-Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. 
-Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, 
-augue velit cursus nunc, quis gravida magna mi a libero. Fusce vulputate eleifend sapien. Vestibulum purus quam, scelerisque ut, 
-mollis sed, nonummy id, metus. 
-* Cras ultricies mi eu turpis hendrerit fringilla. 
-* Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; 
-* In ac dui quis mi consectetuer lacinia.
 
-**Etiam ultricies nisi vel augue!**
+
+## Vart uppdrag
+
+![Vart uppdrag](/img/mission.png " Vart uppdrag")
+
+##  
+
+Syftar till att vara en nationell marknadsledare inom tillhandahållande av städtjänster som levererar pålitliga, kvalitets- och kostnadseffektiva rengöringslösningar till våra kunder.
+
+## Vår vision
+
+Vi är engagerade i att arbeta med ärliga värderingar och principer.
+
+
+
+> ## *Om du inte är nöjd, låt oss bara veta det och vi ska arbeta för att göra det rätt*
+
+
+
+
+
+# Våra värderingar
+
+Vårt mål är din tillfredsställelse (naturligtvis efter vårt rengöringsarbete). Kontortelefon fungerar dygnet runt (24/7).
+
+Kundorienterad: Vi betjänar våra kunder som om vi tjänar oss själva. Vi värdesätter deras feedback och vi använder den för att förbättra vårt arbete.\
+Miljövänlig orienterad: Vi väljer noggrant de bästa och mest naturliga rengöringsprodukterna som ger fantastiska resultat.\
+Excellence och innovation: Vi erbjuder utbildning till vår personal för att säkerställa hög servicestandard. Vi håller oss uppdaterade om de senaste innovationerna inom miljövänliga produkter och teknologier, vilket gör att vi kan ta det bästa in till våra kunders hem.\
+Expansion / tillväxt: vi gör oss kända i samhället; vi skapar långsiktiga relationer, medan vi ständigt expanderar. Därför tar vi alltid fler människor att arbeta för oss.
+
+Välj oss på grund av vårt rykte för spetskompetens. I mer än tio år har vi fått ett namn för kvalitet och kundservice. Hemägare som vi betjänar förlitar oss för detaljorienterade, konsekventa städtjänster, varje gång vi städar sina hem.
