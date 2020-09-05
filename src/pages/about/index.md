@@ -1,27 +1,21 @@
 ---
 templateKey: about-page
 title: Om oss
-meta_title: About Us | Gatsby Starter Business
-meta_description: Cum sociis natoque penatibus et magnis dis parturient montes,
-  nascetur ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia
-  quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras
-  mattis consectetur purus sit amet fermentum.
+meta_title: Om oss
+meta_description: Stina Stad-tjänsten är ett fullt integrerat företag för
+  städtjänster som tillhandahåller omfattande, tillförlitliga
+  rengöringslösningar av hög kvalitet till kommersiella, företag, industri och
+  bostadskunder.
 ---
 ### Mer än 10 års rengöringserfaring
-
-
 
 Stina Stad-tjänsten är ett fullt integrerat företag för städtjänster som tillhandahåller omfattande, tillförlitliga rengöringslösningar av hög kvalitet till kommersiella, företag, industri och bostadskunder.
 
 Vår flitiga ledning och arbetsetik är centrala för rengöringsföretagets affärsfilosofi och avgörande för att leverera städningstjänster av hög kvalitet. Vi är stolta över att göra vår ledning ansvarig gentemot klienten genom direkt tillgång och interaktion med vår verkställande direktör.
 
-
-
 ## Vart uppdrag
 
-![Vart uppdrag](/img/mission.png " Vart uppdrag")
-
-##  
+![Vart uppdrag]( " Vart uppdrag")
 
 Syftar till att vara en nationell marknadsledare inom tillhandahållande av städtjänster som levererar pålitliga, kvalitets- och kostnadseffektiva rengöringslösningar till våra kunder.
 
@@ -29,13 +23,7 @@ Syftar till att vara en nationell marknadsledare inom tillhandahållande av stä
 
 Vi är engagerade i att arbeta med ärliga värderingar och principer.
 
-
-
 > ## *Om du inte är nöjd, låt oss bara veta det och vi ska arbeta för att göra det rätt*
-
-
-
-
 
 # Våra värderingar
 
